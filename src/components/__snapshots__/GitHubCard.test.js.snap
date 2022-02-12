@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "100rem",
+    }
+  }
+>
+  <img
+    alt="Profile photo"
+    className="card-img-top"
+    src="me&millie.jpg"
+    style={
+      Object {
+        "width": "20%",
+      }
+    }
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Jack H. Ersbo
+    </div>
+    <p
+      className="card-text"
+    >
+      I am a student fullstack developer who is currently learning about React testing!
+    </p>
+    <a
+      className="btn btn-primary"
+      href="https://github.com/jhersbo"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      My Github!
+    </a>
+  </div>
+</div>
+`;
